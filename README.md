@@ -46,12 +46,12 @@ fusion. Built as a final year B.E. Computer Engineering project.
 
 ## 📸 Project Images
 
-![Prototype](images/output1.jpg)
-![Detection](images/output2.jpg)
-![Stop Sign](images/output3.jpg)
-![Distance](images/output4.jpg)
-![Output5](images/output5.jpg)
-![Output6](images/output6.jpg)
+![Prototype](output1.png)
+![Detection](output2.png)
+![Stop Sign](output3.png)
+![Distance](output4.png)
+![Output5](output5.png)
+![Output6](output6.png)
 
 ---
 
