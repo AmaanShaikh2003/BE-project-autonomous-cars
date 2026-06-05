@@ -46,15 +46,40 @@ fusion. Built as a final year B.E. Computer Engineering project.
 
 ## 📸 Project Images
 
+### 🚗 Prototype
 ![Prototype](output1.png)
-![Detection](output2.png)
-![Stop Sign](output3.png)
-![Distance](output4.png)
-![Output5](output5.png)
-![Output6](output6.png)
 
 ---
 
+### 🎯 Object Detection in Action
+![Detection](output2.png)
+
+---
+
+### 🛑 Stop Sign Detection
+![Stop Sign](output3.png)
+
+---
+
+### 📏 Distance Measurement
+![Distance](output4.png)
+
+---
+
+### 💻 Code Interface
+![Code](output5.png)
+
+---
+
+### 📡 Sensor Output
+![Sensor](output6.png)
+
+---
+
+## 📁 Code
+Coming Soon
+
+---
 
 ## 📄 License
 This project is for educational purposes only.
