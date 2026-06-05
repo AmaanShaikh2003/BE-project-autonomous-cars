@@ -76,10 +76,5 @@ fusion. Built as a final year B.E. Computer Engineering project.
 
 ---
 
-## 📁 Code
-Coming Soon
-
----
-
 ## 📄 License
 This project is for educational purposes only.
